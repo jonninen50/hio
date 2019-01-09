@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "paja",
+  "scripts": {
+    "postdeploy": "e.g. bin/setup"
+  },
+  "stack": "heroku-18"
+}
